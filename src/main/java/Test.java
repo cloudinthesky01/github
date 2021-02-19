@@ -5,6 +5,8 @@
  **/
 public class Test {
     public static void main(String[] args) {
+        System.out.println("master second");
+        System.out.println("hot-fix first");
         System.out.println("hot-fix");
     }
 }
