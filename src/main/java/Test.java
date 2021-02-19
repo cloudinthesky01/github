@@ -9,5 +9,6 @@ public class Test {
         System.out.println("hot-fix first");
         System.out.println("master");
         System.out.println("hot-fix");
+        System.out.println("push from IDEA");
     }
 }
